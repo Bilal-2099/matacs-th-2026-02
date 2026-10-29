@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "Proposal A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 88.1,
+    "reason": "Ranked #1 with a score of 88.1/100 based on experience, price, timeline, warranty, and team approach."
+  },
+  {
+    "proposal": "Proposal B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Failed mandatory criteria: Ontario electrical contractor licence not held by bidder."
+  },
+  {
+    "proposal": "Proposal C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 60.2,
+    "reason": "Ranked #3 with a score of 60.2/100 based on experience, price, timeline, warranty, and team approach."
+  },
+  {
+    "proposal": "Proposal D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Failed mandatory criteria: Timeline exceeds 16 weeks or is unstated."
+  },
+  {
+    "proposal": "Proposal E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 69.7,
+    "reason": "Ranked #2 with a score of 69.7/100 based on experience, price, timeline, warranty, and team approach."
+  }
+]
